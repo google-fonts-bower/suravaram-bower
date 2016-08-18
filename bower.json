@@ -1,0 +1,17 @@
+{
+    "name": "suravaram-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Purushoth Kumar Guttula"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/suravaram-bower.git"
+    },
+    "description": "Suravaram font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
